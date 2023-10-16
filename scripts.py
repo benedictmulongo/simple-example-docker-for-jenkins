@@ -6,5 +6,5 @@ def print_message(msg=None):
     return msg
 
 if __name__ == "__main__":
-    print_message("love & peace")
+    print_message("love & peace - by Ben Mulongo")
 
